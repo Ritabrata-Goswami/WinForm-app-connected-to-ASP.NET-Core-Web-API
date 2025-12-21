@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserLoginGUI", "UserLoginGUI.csproj", "{655F8B94-06D9-49FA-911B-46DB21B196D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLoginGUI_ApiEndpoints", "..\UserLoginGUI_ApiEndpoints\UserLoginGUI_ApiEndpoints.csproj", "{F87583C1-9B55-42A6-A3CF-2731266F4D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{655F8B94-06D9-49FA-911B-46DB21B196D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655F8B94-06D9-49FA-911B-46DB21B196D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655F8B94-06D9-49FA-911B-46DB21B196D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655F8B94-06D9-49FA-911B-46DB21B196D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87583C1-9B55-42A6-A3CF-2731266F4D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87583C1-9B55-42A6-A3CF-2731266F4D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87583C1-9B55-42A6-A3CF-2731266F4D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87583C1-9B55-42A6-A3CF-2731266F4D59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {698191A5-CA5A-47A4-AB6D-3BEDA0751FB7}
+	EndGlobalSection
+EndGlobal
