@@ -3,35 +3,31 @@
   "WorkspaceRootPath": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\authscreens\\mainauthscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:authscreens\\mainauthscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\authscreens\\insertrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:authscreens\\insertrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\commoncls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:commoncls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\usercontrols\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:usercontrols\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\userlogingui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:userlogingui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\usercontrols\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:usercontrols\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\usercontrols\\mainheadercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:usercontrols\\mainheadercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\authscreens\\displayrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:authscreens\\displayrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F87583C1-9B55-42A6-A3CF-2731266F4D59}|..\\UserLoginGUI_ApiEndpoints\\UserLoginGUI_ApiEndpoints.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui_apiendpoints\\endpointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\userlogingui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:userlogingui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\authscreens\\displayrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:authscreens\\displayrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|d:\\working\\c#\\projects\\userlogingui\\userlogingui\\authscreens\\insertrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{655F8B94-06D9-49FA-911B-46DB21B196D8}|UserLoginGUI.csproj|solutionrelative:authscreens\\insertrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,11 +37,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayRecords.cs [Design]",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\AuthScreens\\DisplayRecords.cs",
+              "RelativeDocumentMoniker": "AuthScreens\\DisplayRecords.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\AuthScreens\\DisplayRecords.cs [Design]",
+              "RelativeToolTip": "AuthScreens\\DisplayRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:05:56.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndpointClass.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI_ApiEndpoints\\EndpointClass.cs",
+              "RelativeDocumentMoniker": "..\\UserLoginGUI_ApiEndpoints\\EndpointClass.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI_ApiEndpoints\\EndpointClass.cs",
+              "RelativeToolTip": "..\\UserLoginGUI_ApiEndpoints\\EndpointClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T15:09:59.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertRecord.cs [Design]",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\AuthScreens\\InsertRecord.cs",
+              "RelativeDocumentMoniker": "AuthScreens\\InsertRecord.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\AuthScreens\\InsertRecord.cs [Design]",
+              "RelativeToolTip": "AuthScreens\\InsertRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:48:28.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayRecords.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\AuthScreens\\DisplayRecords.cs",
+              "RelativeDocumentMoniker": "AuthScreens\\DisplayRecords.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\AuthScreens\\DisplayRecords.cs",
+              "RelativeToolTip": "AuthScreens\\DisplayRecords.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:33:43.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertRecord.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\AuthScreens\\InsertRecord.cs",
+              "RelativeDocumentMoniker": "AuthScreens\\InsertRecord.cs",
+              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\AuthScreens\\InsertRecord.cs",
+              "RelativeToolTip": "AuthScreens\\InsertRecord.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAD4vzcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:49:01.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,14 +114,14 @@
               "RelativeDocumentMoniker": "CommonCls.cs",
               "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\CommonCls.cs",
               "RelativeToolTip": "CommonCls.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAgAAAAsAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T19:15:34.557Z",
+              "WhenOpened": "2025-12-25T12:29:31.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "UserLoginGUI",
               "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\UserLoginGUI.csproj",
               "RelativeDocumentMoniker": "UserLoginGUI.csproj",
@@ -70,84 +129,6 @@
               "RelativeToolTip": "UserLoginGUI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-14T18:55:57.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainHeaderControl.cs",
-              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\UserControls\\MainHeaderControl.cs",
-              "RelativeDocumentMoniker": "UserControls\\MainHeaderControl.cs",
-              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\UserControls\\MainHeaderControl.cs",
-              "RelativeToolTip": "UserControls\\MainHeaderControl.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAYwEcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T20:22:26.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\UserControls\\Login.cs",
-              "RelativeDocumentMoniker": "UserControls\\Login.cs",
-              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\UserControls\\Login.cs",
-              "RelativeToolTip": "UserControls\\Login.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAmwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:41:23.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwEMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T19:15:42.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainAuthScreen.cs",
-              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\AuthScreens\\MainAuthScreen.cs",
-              "RelativeDocumentMoniker": "AuthScreens\\MainAuthScreen.cs",
-              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\AuthScreens\\MainAuthScreen.cs",
-              "RelativeToolTip": "AuthScreens\\MainAuthScreen.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBgAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T17:52:59.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\UserControls\\Registration.cs",
-              "RelativeDocumentMoniker": "UserControls\\Registration.cs",
-              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI\\UserControls\\Registration.cs",
-              "RelativeToolTip": "UserControls\\Registration.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T12:37:50.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EndpointClass.cs",
-              "DocumentMoniker": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI_ApiEndpoints\\EndpointClass.cs",
-              "RelativeDocumentMoniker": "..\\UserLoginGUI_ApiEndpoints\\EndpointClass.cs",
-              "ToolTip": "D:\\Working\\C#\\Projects\\UserLoginGUI\\UserLoginGUI_ApiEndpoints\\EndpointClass.cs",
-              "RelativeToolTip": "..\\UserLoginGUI_ApiEndpoints\\EndpointClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T15:09:59.194Z",
               "EditorCaption": ""
             }
           ]

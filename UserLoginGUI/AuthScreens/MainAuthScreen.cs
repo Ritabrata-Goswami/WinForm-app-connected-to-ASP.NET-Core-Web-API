@@ -16,6 +16,9 @@ namespace UserLoginGUI.AuthScreens
     {
         public event EventHandler LogoutEvent;
 
+        internal InsertRecord _insertRecordObj;
+        internal DisplayRecords _displayRecordsObj;
+
         public MainAuthScreen(string? UserName, string? UserEmail, string? UserImagePath)
         {
             InitializeComponent();
@@ -31,6 +34,20 @@ namespace UserLoginGUI.AuthScreens
 
             lblProfileName.Text = UserName ?? "Loading...";
             lblUserId.Text = UserEmail ?? "Loading...";
+
+            _insertRecordObj = new InsertRecord();
+            _displayRecordsObj = new DisplayRecords();
+
+            _insertRecordObj.Location = new System.Drawing.Point(10,320);
+            this.Controls.Add(_insertRecordObj);
+            _insertRecordObj.Visible = true;
+            InsertBtn.BackColor = System.Drawing.Color.ForestGreen;
+            InsertBtn.ForeColor = System.Drawing.Color.WhiteSmoke;
+
+            _displayRecordsObj.Location = new System.Drawing.Point(10, 320);
+            this.Controls.Add(_displayRecordsObj);
+            _displayRecordsObj.Visible = false;
+            DisplayBtn.BackColor = System.Drawing.Color.WhiteSmoke;
         }
 
 
@@ -57,12 +74,22 @@ namespace UserLoginGUI.AuthScreens
 
         private void Display_Click(object sender, EventArgs e)
         {
-
+            _displayRecordsObj.Visible= true;
+            _insertRecordObj.Visible = false;
+            DisplayBtn.BackColor = System.Drawing.Color.ForestGreen;
+            DisplayBtn.ForeColor = System.Drawing.Color.WhiteSmoke;
+            InsertBtn.BackColor = System.Drawing.Color.WhiteSmoke;
+            InsertBtn.ForeColor = System.Drawing.Color.Black;
         }
 
         private void Insert_Click(object sender, EventArgs e)
         {
-
+            _displayRecordsObj.Visible = false;
+            _insertRecordObj.Visible = true;
+            DisplayBtn.BackColor = System.Drawing.Color.WhiteSmoke;
+            DisplayBtn.ForeColor = System.Drawing.Color.Black;
+            InsertBtn.BackColor = System.Drawing.Color.ForestGreen;
+            InsertBtn.ForeColor = System.Drawing.Color.WhiteSmoke;
         }
 
 

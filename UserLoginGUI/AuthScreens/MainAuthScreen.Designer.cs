@@ -52,6 +52,7 @@
             // LogoutBtn
             // 
             LogoutBtn.BackColor = Color.FromArgb(255, 1, 1);
+            LogoutBtn.Cursor = Cursors.Hand;
             LogoutBtn.Font = new Font("Segoe UI", 7.8F, FontStyle.Bold, GraphicsUnit.Point);
             LogoutBtn.ForeColor = SystemColors.ButtonFace;
             LogoutBtn.Location = new Point(185, 47);
@@ -66,7 +67,7 @@
             // 
             profilePic.Location = new Point(8, 47);
             profilePic.Name = "profilePic";
-            profilePic.Size = new Size(126, 145);
+            profilePic.Size = new Size(139, 145);
             profilePic.TabIndex = 2;
             profilePic.TabStop = false;
             // 
@@ -90,6 +91,7 @@
             // 
             // DisplayBtn
             // 
+            DisplayBtn.Cursor = Cursors.Hand;
             DisplayBtn.Font = new Font("Segoe UI Semibold", 10.8F, FontStyle.Bold, GraphicsUnit.Point);
             DisplayBtn.Location = new Point(8, 287);
             DisplayBtn.Name = "DisplayBtn";
@@ -101,6 +103,7 @@
             // 
             // InsertBtn
             // 
+            InsertBtn.Cursor = Cursors.Hand;
             InsertBtn.Font = new Font("Segoe UI Semibold", 10.8F, FontStyle.Bold, GraphicsUnit.Point);
             InsertBtn.Location = new Point(173, 287);
             InsertBtn.Name = "InsertBtn";

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserLoginGUI_ApiEndpoints")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a93134555a9abbd6e0e489fa2e42521c0f41c94")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserLoginGUI_ApiEndpoints")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserLoginGUI_ApiEndpoints")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

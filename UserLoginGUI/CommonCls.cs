@@ -49,6 +49,27 @@ namespace UserLoginGUI.CommonCls
         public string? AuthToken { get; set; }
     }
 
+    public class ComboItem
+    {
+        public string? Value { get; set; }
+        public string? Text { get; set; }
+    }
+
+    public class Cls_ItemPosting
+    {
+        public int Id { get; set; }
+        public string? ItemName { get; set; }
+        public decimal ItemPrice { get; set; }
+        public string? ItemType { get; set; }
+        public string? Tax { get; set; }
+    }
+
+    public class Cls_GetItemLists
+    {
+        public int StatusCode { get; set; }
+        public string StatusMessage { get; set; }
+        public List<Cls_ItemPosting> ItemListing { get; set; }
+    }
 
 }
 

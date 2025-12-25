@@ -71,3 +71,7 @@ D:\Working\C#\Projects\UserLoginGUI\UserLoginGUI\obj\Debug\net6.0-windows\refint
 D:\Working\C#\Projects\UserLoginGUI\UserLoginGUI\obj\Debug\net6.0-windows\UserLoginGUI.pdb
 D:\Working\C#\Projects\UserLoginGUI\UserLoginGUI\obj\Debug\net6.0-windows\UserLoginGUI.genruntimeconfig.cache
 D:\Working\C#\Projects\UserLoginGUI\UserLoginGUI\obj\Debug\net6.0-windows\ref\UserLoginGUI.dll
+D:\Working\C#\Projects\UserLoginGUI\UserLoginGUI\obj\Debug\net6.0-windows\UserLoginGUI.AuthScreens.DisplayRecords.resources
+D:\Working\C#\Projects\UserLoginGUI\UserLoginGUI\obj\Debug\net6.0-windows\UserLoginGUI.AuthScreens.InsertRecord.resources
+D:\Working\C#\Projects\UserLoginGUI\UserLoginGUI\obj\Debug\net6.0-windows\UserLoginGUI.sourcelink.json
+D:\Working\C#\Projects\UserLoginGUI\UserLoginGUI\obj\Debug\net6.0-windows\UserLoginGUI.AuthScreens.NoRecordsFound.resources
