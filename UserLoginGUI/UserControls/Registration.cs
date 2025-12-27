@@ -86,7 +86,7 @@ namespace UserLoginGUI.UserControls
                         Cls_Response? GetRegResponse = await HttpResponse.Content.ReadFromJsonAsync<Cls_Response>();
                         switch (GetRegResponse?.StatusCode)
                         {
-                            case 200:
+                            case 201:
                                 MessageBox.Show(GetRegResponse.StatusMessage, "Success");
                                 break;
                             case 404:

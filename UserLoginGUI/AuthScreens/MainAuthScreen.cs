@@ -92,6 +92,5 @@ namespace UserLoginGUI.AuthScreens
             InsertBtn.ForeColor = System.Drawing.Color.WhiteSmoke;
         }
 
-
     }
 }

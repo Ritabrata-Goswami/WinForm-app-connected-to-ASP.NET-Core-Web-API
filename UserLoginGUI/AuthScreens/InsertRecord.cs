@@ -78,9 +78,9 @@ namespace UserLoginGUI.AuthScreens
                     int httpStatusCode = (int)httpResponse.StatusCode;
                     switch (httpStatusCode)
                     {
-                        case 200:
+                        case 201:
                             ResponseObj = await httpResponse.Content.ReadFromJsonAsync<Cls_Response>();
-                            MessageBox.Show(ResponseObj?.StatusMessage, "Posting Data Successful");
+                            MessageBox.Show(ResponseObj?.StatusMessage, "Success");
                             break;
                         case 404:
                             ResponseObj = await httpResponse.Content.ReadFromJsonAsync<Cls_Response>();

@@ -30,6 +30,7 @@
         {
             txtDisplayHdrTxt = new Label();
             dataGridView1 = new DataGridView();
+            refreshBtn = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -40,7 +41,7 @@
             txtDisplayHdrTxt.Location = new Point(0, 0);
             txtDisplayHdrTxt.Name = "txtDisplayHdrTxt";
             txtDisplayHdrTxt.Padding = new Padding(0, 8, 0, 0);
-            txtDisplayHdrTxt.Size = new Size(1053, 51);
+            txtDisplayHdrTxt.Size = new Size(1084, 80);
             txtDisplayHdrTxt.TabIndex = 0;
             txtDisplayHdrTxt.Text = "Display Records";
             txtDisplayHdrTxt.TextAlign = ContentAlignment.TopCenter;
@@ -50,22 +51,36 @@
             dataGridView1.AllowUserToOrderColumns = true;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Dock = DockStyle.Top;
-            dataGridView1.Location = new Point(0, 51);
+            dataGridView1.Location = new Point(0, 80);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.RowTemplate.Height = 29;
-            dataGridView1.Size = new Size(1053, 351);
+            dataGridView1.Size = new Size(1084, 351);
             dataGridView1.TabIndex = 1;
+            // 
+            // refreshBtn
+            // 
+            refreshBtn.BackColor = SystemColors.Highlight;
+            refreshBtn.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            refreshBtn.ForeColor = SystemColors.ButtonFace;
+            refreshBtn.Location = new Point(0, 31);
+            refreshBtn.Name = "refreshBtn";
+            refreshBtn.Size = new Size(120, 35);
+            refreshBtn.TabIndex = 2;
+            refreshBtn.Text = "Refresh Grid";
+            refreshBtn.UseVisualStyleBackColor = false;
+            refreshBtn.Click += RefreshGrid_Event;
             // 
             // DisplayRecords
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(refreshBtn);
             Controls.Add(dataGridView1);
             Controls.Add(txtDisplayHdrTxt);
             Cursor = Cursors.Hand;
             Name = "DisplayRecords";
-            Size = new Size(1053, 470);
+            Size = new Size(1084, 500);
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
         }
@@ -74,5 +89,6 @@
 
         private Label txtDisplayHdrTxt;
         private DataGridView dataGridView1;
+        private Button refreshBtn;
     }
 }
